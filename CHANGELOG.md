@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-17)
+
+<section class="features">
+
+### Features
+
+-   [`2366eb1`](https://github.com/stdlib-js/stdlib/commit/2366eb1c8cb8c012bf0c0a03b12d12ae51b6e518) - add C implementation for `stats/base/dists/erlang/mean`   [(#4246)](https://github.com/stdlib-js/stdlib/pull/4246)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3572](https://github.com/stdlib-js/stdlib/issues/3572)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`2366eb1`](https://github.com/stdlib-js/stdlib/commit/2366eb1c8cb8c012bf0c0a03b12d12ae51b6e518) - **feat:** add C implementation for `stats/base/dists/erlang/mean`   [(#4246)](https://github.com/stdlib-js/stdlib/pull/4246) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 -   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   Vivek Maurya
 
 </section>
 
