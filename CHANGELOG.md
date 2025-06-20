@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`4a9645b`](https://github.com/stdlib-js/stdlib/commit/4a9645be0b51928789f6432b404c37e65704e939) - remove unused round dependency from benchmark task in erlang/mean
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a9645b`](https://github.com/stdlib-js/stdlib/commit/4a9645be0b51928789f6432b404c37e65704e939) - **fix:** remove unused round dependency from benchmark task in erlang/mean _(by Philipp Burckhardt)_
 -   [`391830c`](https://github.com/stdlib-js/stdlib/commit/391830ccb553b0d53a43029d4aea3a07070b25df) - **docs:** replace manual `for` loop in examples [(#7170)](https://github.com/stdlib-js/stdlib/pull/7170) _(by Harsh)_
 -   [`dd9c251`](https://github.com/stdlib-js/stdlib/commit/dd9c2519a5d2a20bc74a61fab3e1735cfd2d26c7) - **chore:** clean-up _(by Athan Reines)_
 -   [`2366eb1`](https://github.com/stdlib-js/stdlib/commit/2366eb1c8cb8c012bf0c0a03b12d12ae51b6e518) - **feat:** add C implementation for `stats/base/dists/erlang/mean`   [(#4246)](https://github.com/stdlib-js/stdlib/pull/4246) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
